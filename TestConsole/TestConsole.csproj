@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyVersion>1.0.20.9421</AssemblyVersion>
+    <FileVersion>1.20.20.9421</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\cms_asp\Edynzo.Sitemap\Edynzo.Sitemap.csproj" />
+    <ProjectReference Include="..\Edynzo.Sitemap\Edynzo.Sitemap.csproj" />
+  </ItemGroup>
+
+</Project>

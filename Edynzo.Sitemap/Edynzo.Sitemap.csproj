@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyVersion>1.0.23.9421</AssemblyVersion>
+    <FileVersion>1.23.23.9421</FileVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Edynzo.Sitemap</Title>
+    <Description>Library that's allow you to automaticly creates sitemap.xml file for your website.</Description>
+  </PropertyGroup>
+
+</Project>
