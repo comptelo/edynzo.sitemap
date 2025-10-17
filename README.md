@@ -1,3 +1,5 @@
+*nuget package TBC*
+
 # Edynzo.Sitemap
 
 Edynzo.Sitemap is a small open-source .NET library and demo console application for crawling a website and generating an XML sitemap (`sitemap.xml`).
